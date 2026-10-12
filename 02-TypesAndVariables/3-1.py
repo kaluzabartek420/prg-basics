@@ -13,4 +13,4 @@ big_company = employees > 100
 income = 4500000
 #   NAZWA: "income", WARTOŚĆ: 4500000, TYP WARTOŚCI: integer
 income_per_person = income / employees
-#   NAZWA: "income_per_person", WARTOŚĆ: income / employees, TYP WARTOŚCI: integer
+#   NAZWA: "income_per_person", WARTOŚĆ: income / employees, TYP WARTOŚCI: float
