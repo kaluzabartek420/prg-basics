@@ -1,0 +1,8 @@
+# +     DODAWANIE
+# *     MNOŻENIE
+# **    POTĘGOWANIE
+# /     DZIELENIE
+# //    DZIELENIE CAŁKOWITE
+# %     RESZTA Z DZIELENIA
+# >     WIĘKSZE
+# <=    MNIEJSZE LUB RÓWNE
