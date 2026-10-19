@@ -1,0 +1,13 @@
+###
+# Credit card payment 
+#
+account_balance = 500
+total_payment = int(input('Enter payment: '))
+
+if total_payment <= account_balance:
+    print('Payment completed')
+else:
+    print('No funds')
+
+# Udane: 140, 499, 500
+# Nieudane: 501, 720
