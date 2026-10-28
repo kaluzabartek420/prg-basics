@@ -7,6 +7,6 @@ def f(palindrome):
     else:
         return False
 
-print(f"f(\"radar\") returns {f("radar")}")
-print(f"f(\"12-11-21\") returns {f("12-11-21")}")
-print(f"f(\"book\") returns {f("book")}")
+print(f"f(\"radar\") returns {f('radar')}")
+print(f"f(\"12-11-21\") returns {f('12-11-21')}")
+print(f"f(\"book\") returns {f('book')}")

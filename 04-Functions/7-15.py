@@ -9,7 +9,7 @@ def f(detector):
             return True
     return False
 
-print(f"f(\"+-+++-+---\") returns {f("+-+++-+---")}")
-print(f"f(\"+-+-+-+-\") returns {f("+-+-+-+-")}")
-print(f"f(\"+-++-+--\") returns {f("+-++-+--")}")
-print(f"f(\"+-++-++-+---\") returns {f("+-++-++-+---")}")
+print(f"f(\"+-+++-+---\") returns {f('+-+++-+---')}")
+print(f"f(\"+-+-+-+-\") returns {f('+-+-+-+-')}")
+print(f"f(\"+-++-+--\") returns {f('+-++-+--')}")
+print(f"f(\"+-++-++-+---\") returns {f('+-++-++-+---')}")
